@@ -11,11 +11,11 @@
 }
 @font-face {
   font-family: Poppins_dark;
-  src: url("/Poppins-Bold.ttf");
+  src: url("Poppins-Bold.ttf");
 }
 @font-face {
   font-family: Poppins_medium;
-  src: url("/Poppins-Medium.ttf");
+  src: url("Poppins-Medium.ttf");
 }
 body {
   height: 100vh;
